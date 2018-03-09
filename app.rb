@@ -9,4 +9,7 @@ class App < Sinatra::Base
   post '/new' do
   end
   
+  get '/new' do
+  end
+  
 end
