@@ -6,6 +6,7 @@ class App < Sinatra::Base
   get '/' do
   end
   
-  
+  post '/new' do
+  end
   
 end
